@@ -1,0 +1,103 @@
+1.
+Adott egy egész számokat tartalmazó tömb, írjon egy olyan lekérdezést, amely visszaadja a 30-nál nagyobb és 100-nál kisebb számok listáját.
+List<int> Numbers = new List<int> { 30, 54, 3, 14, 25, 82, 1, 100, 23, 95 };
+
+
+
+2.
+Írj egy olyan lekérdezést, amely legalább 5 karakter hosszúságú szavakat ad vissza, és nagybetűvel írja őket.
+List<string> animals = new List<string> { "zebra", "elephant", "cat", "dog", "rhino", "bat" };
+nagybetű: .ToUpper()
+
+  
+
+3.
+Írjon egy lekérdezést, amely visszaadja az 'a' betűvel kezdődő és az 'm' betűvel végződő szavakat.
+ List<string> words = new List<string> { "alabam", "am", "balalam", "tara", "", "a", "axeliam", "39yo0m", "trol" };
+( .StartsWith()  EndsWith() )
+
+
+
+4.
+Írjon olyan lekérdezést, amely az egész számok listájából a legnagyobb 5 számot adja vissza csökkenő sorrendben.
+  List<int> numbers = new List<int> { 6, 0, 999, 11, 443, 6, 1, 24, 54 };
+
+ 
+
+
+5.
+Adott szólista, rendezze azt ábécé szerint, és adja vissza az 'e' betűt tartalmazó szavakat.
+var words = new List<string> { "cow", "dog", "elephant", "cat", "rat", "squirrel", "snake", "stork" };
+
+ 
+
+6.
+Írj egy lekérdezést, amely megkeveri a rendezett tömböt.
+var array = new[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+ 
+
+
+7.
+Írj egy olyan lekérdezést, amely visszaadja a leggyakoribb karaktert a karakterláncban. Tegyük fel, hogy csak egy ilyen karakter van.
+string str = "49fjs492jfJs94KfoedK0iejksKdsj3";
+
+ 
+
+8.
+Írj egy olyan lekérdezést, amely visszaadja a betűket és azok gyakoriságát a karakterláncban.
+
+ string word = "abracadabra";
+
+           
+
+9.
+Csoportosítsuk életkor szerint a diákokat.
+ class Student
+    {
+        public int StudentID { get; set; }
+        public string StudentName { get; set; }
+        public int Age { get; set; }
+    }
+
+ List<Student> studentList = new List<Student>() {
+                    new Student() { StudentID = 1, StudentName = "John", Age = 18 } ,
+                    new Student() { StudentID = 2, StudentName = "Steve",  Age = 21 } ,
+                    new Student() { StudentID = 3, StudentName = "Bill",  Age = 18 } ,
+                    new Student() { StudentID = 4, StudentName = "Ram" , Age = 20 } ,
+                    new Student() { StudentID = 5, StudentName = "Abram" , Age = 21 }
+                };
+
+          
+
+10.
+Egy nem üres karakterlánc-lista esetén olyan listát ad vissza, amely csak egyedi (nem duplikált) karakterláncokat tartalmaz.
+var values = new List<string> { "Hi", "Meow", "Hello", "Meow", "Hi!", "Meow", "Hi", "Bye" };
+
+
+
+
+11.
+Írj egy olyan lekérdezést, amely csak nagybetűs szavakat ad vissza a karakterláncból.
+  string word = "THIS is UPPERCASE string LOL";
+
+ 
+
+12.
+Írj olyan lekérdezést, amely két tömb szorzatának összegét adja vissza.
+  int[] array1 = new int[] { 5, 8, 2, 9 };
+  int[] array2 = new int[] { 1, 7, 2, 4 };
+
+ 
+
+
+13.
+Írj egy olyan lekérdezést, amely dupla betűs szekvenciát ad vissza formátumban: AA AB AC ... ZX ZY ZZ
+
+
+
+
+
+
+
+

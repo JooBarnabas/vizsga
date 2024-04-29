@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ÁLK Utazási iroda</title>
+    <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-md navbar-light d-none d-md-block">
+            <div class="container-fluid">
+                <div class="collapse navbar-collapse" id="navbarRealEstateAgency">
+                    <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" aria-current="page" href="index.html">Kezdőlap</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="offers.html">Kínálatunk</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#">Regisztráció</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <h1 class="mb-4 text-center">Regisztráció</h1>
+        <div class="row">
+            <div class="offset-lg-3 offset-md-2 col-lg-6 col-md-8 col-12">
+                <div class="mb-3">
+                    <label for="category" class="form-label">Utazás:</label>
+                    <select class="form-select">
+                        <option value="">Kérem válasszon</option>
+                        <option value="1">Bali 2022-10-22</option>
+                        <option value="2">Kuba 2022-11-09</option>
+                        <option value="3">Maldív szigetek 2022-11-26</option>
+                        <option value="4">Mauríciusz 2022-09-21</option>
+                        <option value="5">Mexikó 2022-10-11</option>
+                    </select>
+                </div>
+
+                <div class="mb-3">
+                    <label for="name" class="form-label">Az Ön neve:</label>
+                    <input type="text" class="form-control" id="name">
+                </div>
+                <div class="mb-3">
+                    <label for="email" class="form-label">Az Ön e-mail címe:</label>
+                    <input type="email" class="form-control" id="email">
+                </div>
+                <div class="mb-3">
+                    <label for="numberOfParticipants" class="form-label">Résztvevők száma:</label>
+                    <input type="number" class="form-control" id="numberOfParticipants">
+                </div>
+
+                <div class="mb-3">
+                    <label for="lastCovidVaccineDate" class="form-label">Utolsó COVID oltásának dátuma:</label>
+                    <input type="date" class="form-control" id="lastCovidVaccineDate">
+                </div>
+
+                <div class="form-check mb-3">
+                    <input class="form-check-input" type="checkbox" id="acceptedConditions">
+                    <label class="form-check-label" for="acceptedConditions">Felhasználási feltételeket elfogadom</label>
+                </div>
+
+                <div class="form-check mb-3">
+                    <input class="form-check-input" type="checkbox" id="offers">
+                    <label class="form-check-label" for="offer">Szeretnék a jövőben akciós utakról értesülni!</label>
+                </div>
+
+                <div class="mb-3 text-center">
+                    <button class="btn btn-primary px-5">Küldés</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.onload = (event) => {
+            document.querySelector('#numberOfParticipants').value = 1;
+        };
+    </script>
+    <script src="dist/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

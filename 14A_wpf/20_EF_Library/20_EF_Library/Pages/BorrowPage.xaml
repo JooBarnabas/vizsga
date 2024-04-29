@@ -1,0 +1,66 @@
+﻿<Page x:Class="_20_EF_Library.Pages.BorrowPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_20_EF_Library.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="800"
+      FontSize="16"
+      Title="BorrowPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- tanulók -->
+        <StackPanel>
+            <Label Content="Tanulók:" FontWeight="Bold" Margin="5"/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Osztály:" Margin="5"/>
+                <ComboBox x:Name="CBO_osztaly" Width="80" Margin="5"
+                          SelectionChanged="CBO_osztaly_SelectionChanged"/>
+            </StackPanel>
+            <ListBox x:Name="LB_tanulok" Height="300" Margin="5"
+                     DisplayMemberPath="Fullname"
+                     SelectionChanged="LB_tanulok_SelectionChanged"/>
+            <Label Content="Keresés:" Margin="5,5,5,0"/>
+            <TextBox x:Name="TB_kereses" Margin="5,0,5,5"
+                     TextChanged="TB_kereses_TextChanged"/>
+        </StackPanel>
+        
+        <!-- kölcsönzött könyvek -->
+        <StackPanel Grid.Column="1">
+            <Label Content="Kölcsönzött könyvek:" FontWeight="Bold" Margin="5"/>
+            <ListBox x:Name="LB_kolcsonzottKonyvek" Height="300" Margin="5">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Green" 
+                                BorderThickness="1"
+                                CornerRadius="5"
+                                Padding="5"
+                                Width="270">
+                            <StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Cím: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Name}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Szerző: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding Fullname}"/>
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="Kölcs.idő: " FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding datum}"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate> 
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Page>

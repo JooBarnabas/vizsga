@@ -1,0 +1,14 @@
+T:\bg\14A_wpf\k01_delegate\k01_delegate\bin\Debug\net7.0\k01_delegate.exe
+T:\bg\14A_wpf\k01_delegate\k01_delegate\bin\Debug\net7.0\k01_delegate.deps.json
+T:\bg\14A_wpf\k01_delegate\k01_delegate\bin\Debug\net7.0\k01_delegate.runtimeconfig.json
+T:\bg\14A_wpf\k01_delegate\k01_delegate\bin\Debug\net7.0\k01_delegate.dll
+T:\bg\14A_wpf\k01_delegate\k01_delegate\bin\Debug\net7.0\k01_delegate.pdb
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.GeneratedMSBuildEditorConfig.editorconfig
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.AssemblyInfoInputs.cache
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.AssemblyInfo.cs
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.csproj.CoreCompileInputs.cache
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.dll
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\refint\k01_delegate.dll
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.pdb
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\k01_delegate.genruntimeconfig.cache
+T:\bg\14A_wpf\k01_delegate\k01_delegate\obj\Debug\net7.0\ref\k01_delegate.dll

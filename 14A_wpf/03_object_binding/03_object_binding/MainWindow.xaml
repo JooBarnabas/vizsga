@@ -1,0 +1,47 @@
+﻿<Window x:Class="_03_object_binding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_03_object_binding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- cimkék -->
+        <Label Content="Név:" Margin="5"/>
+        <Label Content="Életkor:" Margin="5" Grid.Row="1"/>
+        <Label Content="Város" Margin="5" Grid.Row="2"/>
+        
+        <!-- mezők -->
+        <TextBox Width="150" Margin="5" Grid.Column="1"
+                 HorizontalAlignment="Left"
+                 Text="{Binding nev, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox Width="150" Margin="5" Grid.Row="1" Grid.Column="1"
+                 HorizontalAlignment="Left"
+                 Text="{Binding eletkor, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox Width="150" Margin="5" Grid.Row="2" Grid.Column="1"
+                 HorizontalAlignment="Left"
+                 Text="{Binding varos, UpdateSourceTrigger=PropertyChanged}"/>
+        
+        <!-- gomb -->
+        <Button x:Name="BTN_modosit"
+                Content="Módosít" Grid.Row="3" Grid.Column="1"
+                Margin="5"
+                Padding="25 5 25 5"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Left"
+                Click="BTN_modosit_Click"
+                />
+    </Grid>
+</Window>

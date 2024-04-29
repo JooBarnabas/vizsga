@@ -1,0 +1,133 @@
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\App.g.cs
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.cache
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.lref
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.exe
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.deps.json
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.json
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.dev.json
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.g.resources
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfoInputs.cache
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfo.cs
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CopyComplete
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.genruntimeconfig.cache
+E:\_tmp\__1\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll.config
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CoreCompileInputs.cache
+E:\_tmp\__1\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csprojAssemblyReference.cache
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csprojAssemblyReference.cache
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\App.g.cs
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.cache
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.lref
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.exe
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll.config
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.deps.json
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.json
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.dev.json
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\14KE\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\ButorReszletek.g.cs
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\ButorReszletek.baml
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.g.resources
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfoInputs.cache
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfo.cs
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CoreCompileInputs.cache
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CopyComplete
+C:\14KE\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.genruntimeconfig.cache
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.exe
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll.config
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.deps.json
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.json
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.dev.json
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csprojAssemblyReference.cache
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\ButorReszletek.g.cs
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\App.g.cs
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.cache
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.lref
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\ButorReszletek.baml
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.g.resources
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfoInputs.cache
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfo.cs
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CoreCompileInputs.cache
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CopyComplete
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+E:\GoogleDriveJedlik\Classroom\2_14KE-BG Szoftverfejlesztő (2020_21)\14KE-BG Szoftverfejlesztő - Órai munkák\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.genruntimeconfig.cache
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.exe
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll.config
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.deps.json
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.json
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.runtimeconfig.dev.json
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\MySql.Data.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.AssemblyReference.cache
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\ButorReszletek.g.cs
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\App.g.cs
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.cache
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt_MarkupCompile.lref
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\ButorReszletek.baml
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\MainWindow.baml
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.g.resources
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.GeneratedMSBuildEditorConfig.editorconfig
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfoInputs.cache
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.AssemblyInfo.cs
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CoreCompileInputs.cache
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.csproj.CopyComplete
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.pdb
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\obj\Debug\netcoreapp3.1\23_WPF_AB_Butorbolt.genruntimeconfig.cache
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\ZstdNet.dll
+P:\Saját meghajtó\Classroom\BG_WPF_Haladó\_Teljes_anyag\23_WPF_AB_Butorbolt\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll

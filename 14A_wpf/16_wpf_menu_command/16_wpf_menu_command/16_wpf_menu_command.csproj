@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>_16_wpf_menu_command</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="menuicon\b.png" />
+    <None Remove="menuicon\exit.png" />
+    <None Remove="menuicon\folder.png" />
+    <None Remove="menuicon\i.png" />
+    <None Remove="menuicon\save.png" />
+    <None Remove="menuicon\u.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="menuicon\b.png" />
+    <Resource Include="menuicon\exit.png" />
+    <Resource Include="menuicon\folder.png" />
+    <Resource Include="menuicon\i.png" />
+    <Resource Include="menuicon\save.png" />
+    <Resource Include="menuicon\u.png" />
+  </ItemGroup>
+
+</Project>

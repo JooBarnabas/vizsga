@@ -1,0 +1,223 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>_11_wpf_book</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="image\a-Dolls-house.jpg" />
+    <None Remove="image\a-la-recherche-du-temps-perdu.jpg" />
+    <None Remove="image\absalom-absalom.jpg" />
+    <None Remove="image\anna-karenina.jpg" />
+    <None Remove="image\beloved.jpg" />
+    <None Remove="image\berlin-alexanderplatz.jpg" />
+    <None Remove="image\blindness.jpg" />
+    <None Remove="image\bostan.jpg" />
+    <None Remove="image\buddenbrooks.jpg" />
+    <None Remove="image\children-of-gebelawi.jpg" />
+    <None Remove="image\confessions-of-zeno.jpg" />
+    <None Remove="image\crime-and-punishment.jpg" />
+    <None Remove="image\dead-souls.jpg" />
+    <None Remove="image\diary-of-a-madman.jpg" />
+    <None Remove="image\don-quijote-de-la-mancha.jpg" />
+    <None Remove="image\essais.jpg" />
+    <None Remove="image\fairy-tales.jpg" />
+    <None Remove="image\faust.jpg" />
+    <None Remove="image\ficciones.jpg" />
+    <None Remove="image\gargantua-and-pantagruel.jpg" />
+    <None Remove="image\great-expectations.jpg" />
+    <None Remove="image\gullivers-travels.jpg" />
+    <None Remove="image\gypsy-ballads.jpg" />
+    <None Remove="image\hamlet.jpg" />
+    <None Remove="image\history.jpg" />
+    <None Remove="image\hunger.jpg" />
+    <None Remove="image\independent-people.jpg" />
+    <None Remove="image\invisible-man.jpg" />
+    <None Remove="image\jacques-the-fatalist.jpg" />
+    <None Remove="image\king-lear.jpg" />
+    <None Remove="image\l-education-sentimentale.jpg" />
+    <None Remove="image\l-etranger.jpg" />
+    <None Remove="image\le-pere-goriot.jpg" />
+    <None Remove="image\le-rouge-et-le-noir.jpg" />
+    <None Remove="image\leaves-of-grass.jpg" />
+    <None Remove="image\lolita.jpg" />
+    <None Remove="image\love-in-the-time-of-cholera.jpg" />
+    <None Remove="image\madame-bovary.jpg" />
+    <None Remove="image\medea.jpg" />
+    <None Remove="image\memoirs-of-hadrian.jpg" />
+    <None Remove="image\middlemarch.jpg" />
+    <None Remove="image\midnights-children.jpg" />
+    <None Remove="image\moby-dick.jpg" />
+    <None Remove="image\molloy-malone-dies-the-unnamable.jpg" />
+    <None Remove="image\mrs-dalloway.jpg" />
+    <None Remove="image\nineteen-eighty-four.jpg" />
+    <None Remove="image\njals-saga.jpg" />
+    <None Remove="image\nostromo.jpg" />
+    <None Remove="image\oedipus-the-king.jpg" />
+    <None Remove="image\one-hundred-years-of-solitude.jpg" />
+    <None Remove="image\one-thousand-and-one-nights.jpg" />
+    <None Remove="image\othello.jpg" />
+    <None Remove="image\pedro-paramo.jpg" />
+    <None Remove="image\pippi-longstocking.jpg" />
+    <None Remove="image\poems-giacomo-leopardi.jpg" />
+    <None Remove="image\poems-paul-celan.jpg" />
+    <None Remove="image\pride-and-prejudice.jpg" />
+    <None Remove="image\ramayana.jpg" />
+    <None Remove="image\season-of-migration-to-the-north.jpg" />
+    <None Remove="image\sons-and-lovers.jpg" />
+    <None Remove="image\stories-of-anton-chekhov.jpg" />
+    <None Remove="image\stories-of-franz-kafka.jpg" />
+    <None Remove="image\tales-and-poems-of-edgar-allan-poe.jpg" />
+    <None Remove="image\the-adventures-of-huckleberry-finn.jpg" />
+    <None Remove="image\the-aeneid.jpg" />
+    <None Remove="image\the-book-of-disquiet.jpg" />
+    <None Remove="image\the-book-of-job.jpg" />
+    <None Remove="image\the-brothers-karamazov.jpg" />
+    <None Remove="image\the-canterbury-tales.jpg" />
+    <None Remove="image\the-castle.jpg" />
+    <None Remove="image\the-death-of-ivan-ilyich.jpg" />
+    <None Remove="image\the-decameron.jpg" />
+    <None Remove="image\the-devil-to-pay-in-the-backlands.jpg" />
+    <None Remove="image\the-divine-comedy.jpg" />
+    <None Remove="image\the-epic-of-gilgamesh.jpg" />
+    <None Remove="image\the-golden-notebook.jpg" />
+    <None Remove="image\the-idiot.jpg" />
+    <None Remove="image\the-iliad-of-homer.jpg" />
+    <None Remove="image\the-life-and-opinions-of-tristram-shandy.jpg" />
+    <None Remove="image\the-magic-mountain.jpg" />
+    <None Remove="image\the-mahab-harata.jpg" />
+    <None Remove="image\the-man-without-qualities.jpg" />
+    <None Remove="image\the-masnavi.jpg" />
+    <None Remove="image\the-metamorphoses-of-ovid.jpg" />
+    <None Remove="image\the-odyssey-of-homer.jpg" />
+    <None Remove="image\the-old-man-and-the-sea.jpg" />
+    <None Remove="image\the-possessed.jpg" />
+    <None Remove="image\the-recognition-of-shakuntala.jpg" />
+    <None Remove="image\the-sound-and-the-fury.jpg" />
+    <None Remove="image\the-sound-of-the-mountain.jpg" />
+    <None Remove="image\the-tale-of-genji.jpg" />
+    <None Remove="image\the-tin-drum.jpg" />
+    <None Remove="image\the-trial.jpg" />
+    <None Remove="image\things-fall-apart.jpg" />
+    <None Remove="image\to-the-lighthouse.jpg" />
+    <None Remove="image\ulysses.jpg" />
+    <None Remove="image\voyage-au-bout-de-la-nuit.jpg" />
+    <None Remove="image\war-and-peace.jpg" />
+    <None Remove="image\wuthering-heights.jpg" />
+    <None Remove="image\zorba-the-greek.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="image\a-Dolls-house.jpg" />
+    <Resource Include="image\a-la-recherche-du-temps-perdu.jpg" />
+    <Resource Include="image\absalom-absalom.jpg" />
+    <Resource Include="image\anna-karenina.jpg" />
+    <Resource Include="image\beloved.jpg" />
+    <Resource Include="image\berlin-alexanderplatz.jpg" />
+    <Resource Include="image\blindness.jpg" />
+    <Resource Include="image\bostan.jpg" />
+    <Resource Include="image\buddenbrooks.jpg" />
+    <Resource Include="image\children-of-gebelawi.jpg" />
+    <Resource Include="image\confessions-of-zeno.jpg" />
+    <Resource Include="image\crime-and-punishment.jpg" />
+    <Resource Include="image\dead-souls.jpg" />
+    <Resource Include="image\diary-of-a-madman.jpg" />
+    <Resource Include="image\don-quijote-de-la-mancha.jpg" />
+    <Resource Include="image\essais.jpg" />
+    <Resource Include="image\fairy-tales.jpg" />
+    <Resource Include="image\faust.jpg" />
+    <Resource Include="image\ficciones.jpg" />
+    <Resource Include="image\gargantua-and-pantagruel.jpg" />
+    <Resource Include="image\great-expectations.jpg" />
+    <Resource Include="image\gullivers-travels.jpg" />
+    <Resource Include="image\gypsy-ballads.jpg" />
+    <Resource Include="image\hamlet.jpg" />
+    <Resource Include="image\history.jpg" />
+    <Resource Include="image\hunger.jpg" />
+    <Resource Include="image\independent-people.jpg" />
+    <Resource Include="image\invisible-man.jpg" />
+    <Resource Include="image\jacques-the-fatalist.jpg" />
+    <Resource Include="image\king-lear.jpg" />
+    <Resource Include="image\l-education-sentimentale.jpg" />
+    <Resource Include="image\l-etranger.jpg" />
+    <Resource Include="image\le-pere-goriot.jpg" />
+    <Resource Include="image\le-rouge-et-le-noir.jpg" />
+    <Resource Include="image\leaves-of-grass.jpg" />
+    <Resource Include="image\lolita.jpg" />
+    <Resource Include="image\love-in-the-time-of-cholera.jpg" />
+    <Resource Include="image\madame-bovary.jpg" />
+    <Resource Include="image\medea.jpg" />
+    <Resource Include="image\memoirs-of-hadrian.jpg" />
+    <Resource Include="image\middlemarch.jpg" />
+    <Resource Include="image\midnights-children.jpg" />
+    <Resource Include="image\moby-dick.jpg" />
+    <Resource Include="image\molloy-malone-dies-the-unnamable.jpg" />
+    <Resource Include="image\mrs-dalloway.jpg" />
+    <Resource Include="image\nineteen-eighty-four.jpg" />
+    <Resource Include="image\njals-saga.jpg" />
+    <Resource Include="image\nostromo.jpg" />
+    <Resource Include="image\oedipus-the-king.jpg" />
+    <Resource Include="image\one-hundred-years-of-solitude.jpg" />
+    <Resource Include="image\one-thousand-and-one-nights.jpg" />
+    <Resource Include="image\othello.jpg" />
+    <Resource Include="image\pedro-paramo.jpg" />
+    <Resource Include="image\pippi-longstocking.jpg" />
+    <Resource Include="image\poems-giacomo-leopardi.jpg" />
+    <Resource Include="image\poems-paul-celan.jpg" />
+    <Resource Include="image\pride-and-prejudice.jpg" />
+    <Resource Include="image\ramayana.jpg" />
+    <Resource Include="image\season-of-migration-to-the-north.jpg" />
+    <Resource Include="image\sons-and-lovers.jpg" />
+    <Resource Include="image\stories-of-anton-chekhov.jpg" />
+    <Resource Include="image\stories-of-franz-kafka.jpg" />
+    <Resource Include="image\tales-and-poems-of-edgar-allan-poe.jpg" />
+    <Resource Include="image\the-adventures-of-huckleberry-finn.jpg" />
+    <Resource Include="image\the-aeneid.jpg" />
+    <Resource Include="image\the-book-of-disquiet.jpg" />
+    <Resource Include="image\the-book-of-job.jpg" />
+    <Resource Include="image\the-brothers-karamazov.jpg" />
+    <Resource Include="image\the-canterbury-tales.jpg" />
+    <Resource Include="image\the-castle.jpg" />
+    <Resource Include="image\the-death-of-ivan-ilyich.jpg" />
+    <Resource Include="image\the-decameron.jpg" />
+    <Resource Include="image\the-devil-to-pay-in-the-backlands.jpg" />
+    <Resource Include="image\the-divine-comedy.jpg" />
+    <Resource Include="image\the-epic-of-gilgamesh.jpg" />
+    <Resource Include="image\the-golden-notebook.jpg" />
+    <Resource Include="image\the-idiot.jpg" />
+    <Resource Include="image\the-iliad-of-homer.jpg" />
+    <Resource Include="image\the-life-and-opinions-of-tristram-shandy.jpg" />
+    <Resource Include="image\the-magic-mountain.jpg" />
+    <Resource Include="image\the-mahab-harata.jpg" />
+    <Resource Include="image\the-man-without-qualities.jpg" />
+    <Resource Include="image\the-masnavi.jpg" />
+    <Resource Include="image\the-metamorphoses-of-ovid.jpg" />
+    <Resource Include="image\the-odyssey-of-homer.jpg" />
+    <Resource Include="image\the-old-man-and-the-sea.jpg" />
+    <Resource Include="image\the-possessed.jpg" />
+    <Resource Include="image\the-recognition-of-shakuntala.jpg" />
+    <Resource Include="image\the-sound-and-the-fury.jpg" />
+    <Resource Include="image\the-sound-of-the-mountain.jpg" />
+    <Resource Include="image\the-tale-of-genji.jpg" />
+    <Resource Include="image\the-tin-drum.jpg" />
+    <Resource Include="image\the-trial.jpg" />
+    <Resource Include="image\things-fall-apart.jpg" />
+    <Resource Include="image\to-the-lighthouse.jpg" />
+    <Resource Include="image\ulysses.jpg" />
+    <Resource Include="image\voyage-au-bout-de-la-nuit.jpg" />
+    <Resource Include="image\war-and-peace.jpg" />
+    <Resource Include="image\wuthering-heights.jpg" />
+    <Resource Include="image\zorba-the-greek.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="books.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

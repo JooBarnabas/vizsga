@@ -1,0 +1,14 @@
+T:\bg\14A_wpf\k02_event\k02_event\bin\Debug\net7.0\k02_event.exe
+T:\bg\14A_wpf\k02_event\k02_event\bin\Debug\net7.0\k02_event.deps.json
+T:\bg\14A_wpf\k02_event\k02_event\bin\Debug\net7.0\k02_event.runtimeconfig.json
+T:\bg\14A_wpf\k02_event\k02_event\bin\Debug\net7.0\k02_event.dll
+T:\bg\14A_wpf\k02_event\k02_event\bin\Debug\net7.0\k02_event.pdb
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.GeneratedMSBuildEditorConfig.editorconfig
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.AssemblyInfoInputs.cache
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.AssemblyInfo.cs
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.csproj.CoreCompileInputs.cache
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.dll
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\refint\k02_event.dll
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.pdb
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\k02_event.genruntimeconfig.cache
+T:\bg\14A_wpf\k02_event\k02_event\obj\Debug\net7.0\ref\k02_event.dll

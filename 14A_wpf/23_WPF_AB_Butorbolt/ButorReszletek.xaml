@@ -1,0 +1,41 @@
+﻿<Window x:Class="_23_WPF_AB_Butorbolt.ButorReszletek"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_23_WPF_AB_Butorbolt"
+        mc:Ignorable="d"
+        Title="ButorReszletek" Height="300" Width="500" FontSize="18" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Megnevezés:" Margin="5" Width="150" />
+                <TextBox Margin="5" Width="300" Text="{Binding megnevezes}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Alapanyag:" Margin="5" Width="150"/>
+                <ComboBox x:Name="CBO_alapanyag" Margin="5" Width="300"
+                          DisplayMemberPath="megnevezes"
+                          SelectedValuePath="id"
+                          SelectedValue="{Binding alapanyag_id}"
+                          />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Szállítás:" Margin="5" Width="150"/>
+                <DatePicker Margin="5" Width="300" SelectedDate="{Binding szallitas}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Ár:" Margin="5" Width="150"/>
+                <TextBox Margin="5" Width="100" Text="{Binding ar}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Szín:" Margin="5" Width="150"/>
+                <TextBox Margin="5" Width="150" Text="{Binding szin}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="OK" Margin="165,5,5,5" Padding="25,5,25,5" x:Name="BTN_OK" Click="BTN_OK_Click"/>
+                <Button Content="Mégse" Margin="5" Padding="5" x:Name="BTN_Megse" Click="BTN_Megse_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

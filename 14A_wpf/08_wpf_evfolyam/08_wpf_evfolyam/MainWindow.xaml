@@ -1,0 +1,60 @@
+﻿<Window x:Class="_08_wpf_evfolyam.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_08_wpf_evfolyam"
+        mc:Ignorable="d"
+        Title="Tanulók" Height="450" Width="800" FontSize="16">
+    <Window.Resources>
+        <local:JegyKonverter x:Key="jegyKonverterOsztaly"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        
+        <!-- listák -->
+        <StackPanel>
+            <Label Content="Osztályok:" FontWeight="Bold" Margin="5"/>
+            <ComboBox x:Name="CBO_osztalyok" Margin="5" 
+                      SelectionChanged="CBO_osztalyok_SelectionChanged"/>
+
+            <Label Content="Tanulok:" FontWeight="Bold" Margin="5"/>
+            <ListBox Margin="5" Height="250"
+                     ItemsSource="{Binding}"
+                     DisplayMemberPath="nev"
+                     IsSynchronizedWithCurrentItem="True"/>
+        </StackPanel>
+        
+        <!-- ürlap -->
+        <StackPanel Grid.Column="1">
+            <Label Content="Adatok:" FontWeight="Bold" Margin="5"/>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Név:" Margin="5" Width="100"/>
+                <TextBox Margin="5" Width="150"
+                         Text="{Binding nev, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Matematika:" Margin="5" Width="100"/>
+                <ComboBox x:Name="CBO_matematika" Margin="5" Width="50" Text="{Binding matematika}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Angol:" Margin="5" Width="100"/>
+                <ComboBox x:Name="CBO_angol" Margin="5" Width="50" 
+                          Text="{Binding angol, Converter={StaticResource ResourceKey=jegyKonverterOsztaly}}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Német:" Margin="5" Width="100"/>
+                <ComboBox x:Name="CBO_nemet" Margin="5" Width="50" 
+                          Text="{Binding nemet, Converter={StaticResource ResourceKey=jegyKonverterOsztaly}}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Informatika:" Margin="5" Width="100"/>
+                <ComboBox x:Name="CBO_informatika" Margin="5" Width="50" Text="{Binding informatika}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

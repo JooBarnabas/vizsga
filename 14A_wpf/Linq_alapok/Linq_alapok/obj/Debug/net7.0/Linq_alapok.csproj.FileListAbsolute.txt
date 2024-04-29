@@ -1,0 +1,14 @@
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.exe
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.deps.json
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.runtimeconfig.json
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.dll
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.pdb
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.GeneratedMSBuildEditorConfig.editorconfig
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.AssemblyInfoInputs.cache
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.AssemblyInfo.cs
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.csproj.CoreCompileInputs.cache
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.dll
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\refint\Linq_alapok.dll
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.pdb
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.genruntimeconfig.cache
+T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\ref\Linq_alapok.dll

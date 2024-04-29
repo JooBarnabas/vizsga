@@ -1,0 +1,11 @@
+NuGet\Install-Package Microsoft.EntityFrameworkCore -Version 7.0.15
+NuGet\Install-Package Microsoft.EntityFrameworkCore.Tools -Version 7.0.15
+NuGet\Install-Package Pomelo.EntityFrameworkCore.MySql -Version 7.0.0
+
+
+Server=localhost;Database=IskolaDemo;Uid=root;Pwd=;
+
+Scaffold-DbContext "Server=localhost;Database=ingatlan;Uid=root;Pwd=;" Pomelo.EntityFrameworkCore.MySql -OutputDir Models
+
+
+

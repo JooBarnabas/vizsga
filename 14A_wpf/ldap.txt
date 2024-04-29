@@ -1,0 +1,24 @@
+
+try
+{
+	
+    DirectoryEntry entry = new DirectoryEntry("LDAP://jedlik.helyi", "username", "pwd");
+    object nativeObj = entry.NativeObject;
+    if ( nativeObj != null )
+    {
+	PrincipalContext ctx = new PrincipalContext(ContextType.Domain, "jedlik.helyi");
+	UserPrincipal u = UserPrincipal.FindByIdentity(ctx, "username");
+        Debug.WriteLine("OK");
+    }
+    
+}
+catch (DirectoryServicesCOMException comex)
+{
+    Debug.WriteLine("NEMOK");
+    //Not Authenticated. comex.Message will return the reason
+}
+catch (Exception ex)
+{
+    //optional
+    Debug.WriteLine("NEMOK");
+}

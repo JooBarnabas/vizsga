@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgScCw5aUCIRqFstvWrAHv55A9udZcKgVOy2b4c6O8UeOTbrjZ9EmWDGzLhTkKFSmxGIBAzeN0UWXlxouC2skA==",
+  "success": true,
+  "projectFilePath": "D:\\BG\\jwttest\\jwttest\\jwttest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bg\\.nuget\\packages\\jwt\\10.1.1\\jwt.10.1.1.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.4.0\\microsoft.identitymodel.abstractions.7.4.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.4.0\\microsoft.identitymodel.jsonwebtokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\microsoft.identitymodel.logging\\7.4.0\\microsoft.identitymodel.logging.7.4.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.4.0\\microsoft.identitymodel.tokens.7.4.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.4.0\\system.identitymodel.tokens.jwt.7.4.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\bg\\.nuget\\packages\\system.text.json\\6.0.7\\system.text.json.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
