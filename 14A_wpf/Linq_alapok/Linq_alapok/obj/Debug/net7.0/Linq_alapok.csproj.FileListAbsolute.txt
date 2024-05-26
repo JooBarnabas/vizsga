@@ -12,3 +12,17 @@ T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\refint\Linq_alapok.dll
 T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.pdb
 T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.genruntimeconfig.cache
 T:\bg\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\ref\Linq_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.exe
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.deps.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\bin\Debug\net7.0\Linq_alapok.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\refint\Linq_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\Linq_alapok.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\Linq_alapok\Linq_alapok\obj\Debug\net7.0\ref\Linq_alapok.dll

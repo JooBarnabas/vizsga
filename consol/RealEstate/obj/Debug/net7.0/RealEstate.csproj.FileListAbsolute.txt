@@ -1,0 +1,15 @@
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\bin\Debug\net7.0\RealEstate.exe
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\bin\Debug\net7.0\realestates.csv
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\bin\Debug\net7.0\RealEstate.deps.json
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\bin\Debug\net7.0\RealEstate.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\bin\Debug\net7.0\RealEstate.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\bin\Debug\net7.0\RealEstate.pdb
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\refint\RealEstate.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.pdb
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\RealEstate.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\RealEstate\obj\Debug\net7.0\ref\RealEstate.dll

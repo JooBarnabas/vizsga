@@ -38,3 +38,43 @@ T:\bg\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\refint\17_EF_al
 T:\bg\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.pdb
 T:\bg\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.genruntimeconfig.cache
 T:\bg\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\ref\17_EF_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\17_EF_alapok.exe
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\17_EF_alapok.deps.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\17_EF_alapok.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\17_EF_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\17_EF_alapok.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.csproj.AssemblyReference.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok_MarkupCompile.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok_MarkupCompile.lref
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.g.resources
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.csproj.CopyComplete
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\refint\17_EF_alapok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\17_EF_alapok.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\17_EF_alapok\17_EF_alapok\obj\Debug\net7.0-windows\ref\17_EF_alapok.dll

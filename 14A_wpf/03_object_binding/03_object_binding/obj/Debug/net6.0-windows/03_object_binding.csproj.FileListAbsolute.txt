@@ -18,3 +18,23 @@ T:\bg\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\refin
 T:\bg\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.pdb
 T:\bg\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.genruntimeconfig.cache
 T:\bg\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\ref\03_object_binding.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\bin\Debug\net6.0-windows\03_object_binding.exe
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\bin\Debug\net6.0-windows\03_object_binding.deps.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\bin\Debug\net6.0-windows\03_object_binding.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\bin\Debug\net6.0-windows\03_object_binding.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\bin\Debug\net6.0-windows\03_object_binding.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding_MarkupCompile.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding_MarkupCompile.lref
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.g.resources
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\refint\03_object_binding.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\03_object_binding.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\03_object_binding\03_object_binding\obj\Debug\net6.0-windows\ref\03_object_binding.dll

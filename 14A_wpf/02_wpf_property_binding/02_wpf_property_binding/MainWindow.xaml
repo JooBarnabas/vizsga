@@ -10,7 +10,7 @@
         <StackPanel>
             <TextBox x:Name="TB_szoveg" Width="200" Margin="5" HorizontalAlignment="Left"/>
             <Label Margin="5" 
-                   Content="{Binding ElementName=TB_szoveg, Path=Text}"
+                   Content="{Binding}"
                    />
            
             <ListBox x:Name="LBO_gyumolcsok" Width="100" Margin="5" HorizontalAlignment="Left">

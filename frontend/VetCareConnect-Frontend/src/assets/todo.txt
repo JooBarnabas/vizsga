@@ -1,0 +1,7 @@
+1. homepage reszponzív - kész
+2. adminpage reszponzív
+3. backend: nyitvatartás sorban
+4. backend: edit user - kell olyan ahol a jelszót is tudjuk módosítani meg ahol nem olyan is
+5. jelszó módosítás
+6. adminpage ne tudjon bárki hozzáférni, oda is kell egy login
+7. adataim page reszponzív - kész

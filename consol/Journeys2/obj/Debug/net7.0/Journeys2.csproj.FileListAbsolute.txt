@@ -1,0 +1,15 @@
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\bin\Debug\net7.0\Journeys2.exe
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\bin\Debug\net7.0\journeys.csv
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\bin\Debug\net7.0\Journeys2.deps.json
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\bin\Debug\net7.0\Journeys2.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\bin\Debug\net7.0\Journeys2.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\bin\Debug\net7.0\Journeys2.pdb
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\refint\Journeys2.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.pdb
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\Journeys2.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Journeys2\obj\Debug\net7.0\ref\Journeys2.dll

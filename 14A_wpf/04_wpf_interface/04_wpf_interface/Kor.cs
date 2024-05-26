@@ -20,14 +20,8 @@ namespace _04_wpf_interface
 
             }
         }
-        public string nev
-        {
-            get
-            {
-                return "Kör";
-            }
-        }
-
+        public string nev => "Kör";
+        
         public double kerulet => 2 * sugar * Math.PI;
 
         public double terulet => sugar * sugar * Math.PI;

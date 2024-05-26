@@ -1,0 +1,15 @@
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\bin\Debug\net7.0\Erettsegi2023.exe
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\bin\Debug\net7.0\utasszallitok.txt
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\bin\Debug\net7.0\Erettsegi2023.deps.json
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\bin\Debug\net7.0\Erettsegi2023.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\bin\Debug\net7.0\Erettsegi2023.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\bin\Debug\net7.0\Erettsegi2023.pdb
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\refint\Erettsegi2023.dll
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.pdb
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\Erettsegi2023.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\Porgramming\C#\Erettsegi2023\obj\Debug\net7.0\ref\Erettsegi2023.dll

@@ -1,0 +1,50 @@
+#50B692 - világos zöld
+#368267 - közepsen sötét zöld
+#246951 - sötét zöld
+#005A70 - sötét kék
+#ffffff - fehér
+#000000 - fekete
+
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+<img id="logo" src="../src/assets/Képek/VetCareConnect.png" alt="VetCareConnect">
+
+media töréspontok:
+891 991 1330 450
+
+
+Új projekt: ---------------------------------
+
+
+VetCareConnect-Frontend
+VetCareConnect-Backend
+VetCareConnect-Database
+
+
+változónevek ANGOL
+    someThing; --- camelCase
+
+saját fájlnevek ANGOL
+    SomeThing.vue
+
+
+
+Pinia:----------
+
+
+Style:---------------------------------------
+
+dokumentum formázása: VOLAR
+
+
+CSS:------ + mediaqueryes
+
+main.css + scoped componens végére
+
+
+componens:------
+
+1. template
+2. script
+3. style
+
+

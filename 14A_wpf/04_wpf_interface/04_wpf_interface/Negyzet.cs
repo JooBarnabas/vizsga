@@ -25,9 +25,9 @@ namespace _04_wpf_interface
 
         public double terulet => oldal * oldal;
 
-        public string nev { get { return "Négyzet"; } }
+        public string nev => "Négyzet";
 
-        public int oldalakSzama { get { return 4; } }
+        public int oldalakSzama => 4;
 
         public Negyzet(double oldal)
         {

@@ -19,3 +19,24 @@ T:\bg\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\refint\05
 T:\bg\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.pdb
 T:\bg\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.genruntimeconfig.cache
 T:\bg\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\ref\05_wpf_orszagok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\bin\Debug\net7.0-windows\05_wpf_orszagok.exe
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\bin\Debug\net7.0-windows\orszagok.csv
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\bin\Debug\net7.0-windows\05_wpf_orszagok.deps.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\bin\Debug\net7.0-windows\05_wpf_orszagok.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\bin\Debug\net7.0-windows\05_wpf_orszagok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\bin\Debug\net7.0-windows\05_wpf_orszagok.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok_MarkupCompile.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok_MarkupCompile.lref
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.g.resources
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\refint\05_wpf_orszagok.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\05_wpf_orszagok.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\05_wpf_orszagok\05_wpf_orszagok\obj\Debug\net7.0-windows\ref\05_wpf_orszagok.dll

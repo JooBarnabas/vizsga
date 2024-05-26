@@ -1,0 +1,496 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;700&family=Roboto:wght@100;300;400;500;700&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 60px 0 ;
+  overflow-x: hidden;
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 70px;
+}
+
+#app {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+button {
+  font-family: "Roboto", sans-serif;
+}
+
+.p-inputswitch.p-inputswitch-checked .p-inputswitch-slider {
+  background: #246951;
+}
+
+/* LoginPage, RegisterPage */
+.signInBackground {
+  background-image: url(../assets/images/sing_In_background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  position: fixed;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loadingSvg {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  z-index: 100;
+}
+
+.relative {
+  position: relative;
+}
+
+.backToHome {
+  position: fixed;
+  top: 5%;
+  left: 5%;
+  filter: invert(100%);
+  z-index: 99;
+  cursor: pointer;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.btnStyle {
+  padding: 6px;
+  font-size: 16px;
+  border-radius: 7px;
+  cursor: pointer;
+  border: none;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnStyle:hover {
+  transform: scale(1.03);
+  transition: 200ms;
+}
+
+.dataHeader {
+  background-color: #246951;
+  color: white;
+  display: flex;
+  border-radius: 7px 7px 0 0;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 0;
+  gap: 12px;
+  width: 600px;
+}
+
+.dataHeader img {
+  width: 40px;
+}
+
+.dataHeader h1 {
+  margin: 0;
+}
+
+.dataSheet {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 32px;
+  border-radius: 0 0 7px 7px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dataSheet p {
+  color: #C54F4F;
+  font-size: 0.8rem;
+  text-align: center;
+  margin: 0;
+}
+
+.darkBack {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 90;
+  overflow-y: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+.pageTitle {
+  font-size: 1.6rem;
+  color: #368267;
+  font-weight: 700;
+  text-align: left;
+  margin: 40px 0 30px 40px;
+}
+
+.p-dropdown-panel .p-component .p-ripple-disabled .p-dropdown-items-wrapper ul {
+  padding: 0;
+  margin: 0;
+}
+
+.p-dropdown-panel .p-dropdown-items {
+  padding: 0;
+}
+
+.overflowDisable {
+  overflow: hidden;
+  width: 100%;
+  position: fixed;
+  height: 100%;
+}
+
+input,
+select {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border: none;
+  padding: 5px 40px 5px 10px;
+  color: #000;
+  border-radius: 7px;
+  background-color: #ededed;
+  border: 1px solid #c5c5c5;
+  max-height: 50px;
+}
+
+.p-tabview .p-tabview-panels {
+  padding: 0;
+}
+
+.p-tabview-nav-content {
+  display: none;
+}
+
+.p-tabview-nav a {
+  color: #368267;
+  text-decoration: none;
+}
+
+.p-tabview-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+/* ----------------------------------------------Összes napár--------------------------------- */
+.p-datepicker {
+  background-color: #50B692;
+  color: #FFF;
+  border: none;
+  text-align: center;
+  border-radius: 7px;
+}
+
+.p-datepicker .p-datepicker-header {
+  background-color: #50B692;
+  border-bottom: 5px solid #368267;
+  height: 70px;
+}
+
+.p-datepicker-month,
+.p-datepicker-year {
+  color: #FFF;
+}
+
+.p-datepicker-next:hover,
+.p-datepicker-prev:hover {
+  background-color: transparent;
+}
+
+td span:hover {
+  background-color: #35a580;
+
+}
+
+.p-datepicker-today span {
+  background-color: #368267;
+  color: #FFF;
+}
+
+.p-datepicker .p-datepicker-header .p-datepicker-prev,
+.p-datepicker .p-datepicker-header .p-datepicker-next {
+  color: #FFF;
+  transform: scale(1.1);
+}
+
+.p-datepicker .p-datepicker-header .p-datepicker-prev:hover,
+.p-datepicker .p-datepicker-header .p-datepicker-next:hover {
+  transform: scale(1.4);
+  transition: ease-in-out 200ms;
+}
+
+@media (max-width: 576px) {
+  .p-datepicker tbody {
+    font-size: 0.8rem;
+  }
+
+}
+
+/* ----------------------------------------------Egyedi napárak--------------------------------- */
+
+
+
+.calendar .p-datepicker {
+  border-radius: 0;
+}
+
+.vetCalendar .p-datepicker {
+  border-radius: 7px;
+  font-size: 1.6rem;
+}
+
+.vetCalendar .p-datepicker table td {
+  padding: 1.65rem 1rem;
+  font-size: 1.25rem;
+}
+
+@media (max-width: 991px) {
+
+  .vetCalendar .p-datepicker table th>span,
+  .vetCalendar .p-datepicker table td {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 750px) {
+
+  .vetCalendar .p-datepicker table th>span,
+  .vetCalendar .p-datepicker table td {
+    font-size: 0.8rem;
+    padding: 15px;
+  }
+
+  .vetCalendar {
+    height: 500px !important;
+  }
+}
+
+@media (max-width: 650px) {
+
+  .vetCalendar .p-datepicker table th>span,
+  .vetCalendar .p-datepicker table td {
+    padding: 5px;
+  }
+
+  .vetCalendar {
+    height: 400px !important;
+    width: 400px !important;
+  }
+}
+
+@media (max-width: 650px) {
+
+  .vetCalendar .p-datepicker table th>span,
+  .vetCalendar .p-datepicker table td {
+    padding: 0px;
+  }
+
+  .vetCalendar {
+    height: 350px !important;
+    width: 300px !important;
+  }
+
+
+}
+
+/* adatok ---- ezeket a styleokat ki kell szedni a mydata-ból*/
+.p-dropdown,
+.p-inputtext,
+.p-inputnumber,
+.bornDate {
+  border-radius: 7px;
+  background-color: #ededed;
+  outline: none;
+}
+
+.dataHeader {
+  background-color: #246951;
+  color: white;
+  display: flex;
+  border-radius: 7px 7px 0 0;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 0;
+  gap: 12px;
+  width: 600px;
+}
+
+.dataSheet {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border-radius: 0 0 7px 7px;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dataHeader img {
+  width: 40px;
+}
+
+.dataHeader h1 {
+  margin: 0;
+}
+
+.dataSheet label {
+  margin-top: 10px;
+}
+
+@media (max-width: 750px) {
+
+  .myDatas,
+  .dataHeader {
+    width: 500px;
+  }
+}
+
+@media (max-width: 550px) {
+
+  .myDatas,
+  .dataHeader {
+    width: 300px;
+  }
+}
+
+/* Időpont táblázatok */
+
+.p-checkbox .p-checkbox-box.p-highlight,
+.p-checkbox .p-checkbox-box.p-highlight:hover {
+  background: #af3b3b;
+  border: none;
+}
+
+.p-checkbox .p-checkbox-box:hover {
+  border: #af3b3b 2px solid;
+
+}
+
+.p-datatable .p-datatable-thead>tr>th {
+  background-color: #e9ecef;
+}
+
+.p-datatable .p-datatable-tbody>tr.p-highlight {
+  background-color: #af3b3b4e;
+
+}
+
+/* GYIK */
+.p-accordion .p-accordion-header .p-accordion-header-link {
+  font-size: 18px;
+}
+
+@media (max-width: 750px) {
+  .p-accordion .p-accordion-header .p-accordion-header-link {
+    font-size: 14px;
+  }
+
+  .p-accordion .p-accordion-content {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 650px) {
+  .p-accordion .p-accordion-header .p-accordion-header-link {
+    font-size: 12px;
+  }
+}
+
+/* animation */
+.animation-scale {
+  animation: load 0.5s ease-out;
+}
+
+@keyframes load {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.animation_float_left {
+  animation: float_left 0.8s ease-out;
+
+}
+
+@keyframes float_left {
+  0% {
+    transform: translateX(-1000px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+.animation_float_right {
+  animation: float_right 0.8s ease-out;
+
+}
+
+@keyframes float_right {
+  0% {
+    transform: translateX(1000px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+/* admin page */
+
+@media (max-width:1100px) {
+  .p-datatable .p-datatable-thead>tr>th, .p-datatable .p-datatable-tbody > tr > td {
+    padding: 10px;
+  }
+}
+
+@media (max-width:1100px) {
+  .p-datatable .p-datatable-thead>tr>th, .p-datatable .p-datatable-tbody > tr > td {
+    font-size: 14px;
+    padding: 5px;
+  }
+}
+
+@media (max-width: 950px) {
+  .p-datatable-table {
+    max-height: 500px;
+  }
+}

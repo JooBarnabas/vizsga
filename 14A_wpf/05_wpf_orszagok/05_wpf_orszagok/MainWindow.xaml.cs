@@ -34,7 +34,7 @@ namespace _05_wpf_orszagok
 
         private void beolvas()
         {
-            string[] lista; ;
+            string[] lista;
             lista = File.ReadAllLines("orszagok.csv");
             foreach (string line in lista)
             {

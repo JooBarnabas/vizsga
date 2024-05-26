@@ -1,0 +1,39 @@
+﻿<Window x:Class="RealEstate3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RealEstate3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <ListBox x:Name="LB_names" DisplayMemberPath="Name" IsSynchronizedWithCurrentItem="True"></ListBox>
+
+
+        <StackPanel Grid.Column="1">
+
+            <StackPanel Orientation="Horizontal">
+                <Label Width="150" Content="Eladó neve:"></Label>
+                <Label x:Name="lb_name" Content="{Binding Name}"></Label>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Width="150" Content="Eladó telefonszáma:"></Label>
+                <Label x:Name="lb_phone" Content="{Binding Phone}"></Label>
+            </StackPanel>
+
+            <Button Height="20" x:Name="btn_loadAds" Content="Hirdetések betöltése" Margin="10, 0" Click="btn_loadAds_Click"></Button>
+
+            <StackPanel Orientation="Horizontal">
+                <Label Width="150" Content="Hirdetések száma:"></Label>
+                <Label x:Name="lb_numberOfAds" Content="{}"></Label>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Window>

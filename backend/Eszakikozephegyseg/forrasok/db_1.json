@@ -1,0 +1,22 @@
+[
+    {
+        "_id": 1,
+        "type": "repülőgép"
+    },
+    {
+        "_id": 2,
+        "type": "busz"
+    },
+    {
+        "_id": 3,
+        "type": "autó"
+    },
+    {
+        "_id": 4,
+        "type": "vonat"
+    },
+    {
+        "_id": 5,
+        "type": "hajó"
+    }
+]

@@ -18,3 +18,23 @@ T:\bg\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\refint\
 T:\bg\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.pdb
 T:\bg\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.genruntimeconfig.cache
 T:\bg\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\ref\04_wpf_interface.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\bin\Debug\net7.0-windows\04_wpf_interface.exe
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\bin\Debug\net7.0-windows\04_wpf_interface.deps.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\bin\Debug\net7.0-windows\04_wpf_interface.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\bin\Debug\net7.0-windows\04_wpf_interface.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\bin\Debug\net7.0-windows\04_wpf_interface.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface_MarkupCompile.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface_MarkupCompile.lref
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.g.resources
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\refint\04_wpf_interface.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\04_wpf_interface.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\04_wpf_interface\04_wpf_interface\obj\Debug\net7.0-windows\ref\04_wpf_interface.dll

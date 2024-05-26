@@ -20,3 +20,25 @@ T:\bg\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_ev
 T:\bg\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.genruntimeconfig.cache
 T:\bg\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\ref\08_wpf_evfolyam.dll
 T:\bg\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\bin\Debug\net7.0-windows\08_wpf_evfolyam.exe
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\bin\Debug\net7.0-windows\evfolyam.csv
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\bin\Debug\net7.0-windows\08_wpf_evfolyam.deps.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\bin\Debug\net7.0-windows\08_wpf_evfolyam.runtimeconfig.json
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\bin\Debug\net7.0-windows\08_wpf_evfolyam.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\bin\Debug\net7.0-windows\08_wpf_evfolyam.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam_MarkupCompile.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam_MarkupCompile.lref
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.g.resources
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.AssemblyInfoInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.AssemblyInfo.cs
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.csproj.CoreCompileInputs.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\refint\08_wpf_evfolyam.dll
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.pdb
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\08_wpf_evfolyam.genruntimeconfig.cache
+C:\Users\Joó Barnabás\Desktop\vizsga\14A_wpf\08_wpf_evfolyam\08_wpf_evfolyam\obj\Debug\net7.0-windows\ref\08_wpf_evfolyam.dll

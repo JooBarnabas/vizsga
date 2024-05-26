@@ -1,0 +1,3 @@
+.env fájlban a backendet átírni
+
+otherView, homeview átírni

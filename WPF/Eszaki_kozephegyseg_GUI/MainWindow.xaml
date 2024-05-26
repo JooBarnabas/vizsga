@@ -1,0 +1,50 @@
+﻿<Window x:Class="Eszaki_kozephegyseg_GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Eszaki_kozephegyseg_GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="660" Width="800" FontSize="16">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Label HorizontalContentAlignment="Center" Grid.Row="0" Content="Északi középhegység kilátói" Background="CornflowerBlue" Foreground="White"></Label>
+        <Label HorizontalContentAlignment="Center" Grid.Row="2" Content="Készítette: Joó Barnabás" Background="CornflowerBlue" Foreground="White"></Label>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Background="Azure">
+            <StackPanel Width="200px">
+                <Label Content="Hegységek:"></Label>
+                <ListBox x:Name="LB_hegyseggek" DisplayMemberPath="Location1" SelectionChanged="LB_hegyseggek_SelectionChanged"></ListBox>
+            </StackPanel>
+            <StackPanel>
+                <Label Content="Kilátók:"></Label>
+                <DataGrid x:Name="DG_kilatok" Margin="5" Width="auto" Height="auto"  AutoGenerateColumns="False"
+    IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Megnevezés" 
+             Binding="{Binding ViewpointName}"/>
+                        <DataGridTextColumn Header="Hegy" 
+                Binding="{Binding Mountain}"/>
+                        <DataGridTextColumn Header="Magasság" 
+            Binding="{Binding Height}"/>
+                        <DataGridTextColumn Header="Épült" 
+            Binding="{Binding Built, StringFormat='yyyy.MM.dd'}"/>
+                    </DataGrid.Columns>
+
+                </DataGrid>
+                <Label Content="Leírás:"></Label>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="tb_leiras" Width="250" Margin="5" Text="{Binding ElementName=DG_kilatok, Path=SelectedItem.Description}" TextWrapping="Wrap"></TextBlock>
+                        <Image x:Name="img" Width="100" Margin="5" Source="{Binding ElementName=DG_kilatok, Path=SelectedItem.ImageUrl}"></Image>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>
